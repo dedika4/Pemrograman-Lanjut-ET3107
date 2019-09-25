@@ -2,3 +2,15 @@ wkwkwkwk
 lol parah laper.
 ini baris mahar
 ini barisnya dian,
+<<<<<<< HEAD
+
+
+
+katanya pake keterangan commit
+hmm
+=======
+Ayo makan :)
+>>>>>>> a5fd709149478416102f62a72bc68629a6bf74e0
+
+
+diiiiaannnn
