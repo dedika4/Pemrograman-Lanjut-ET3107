@@ -1,2 +1,7 @@
 wkwkwkwk
 lol parah laper.
+<<<<<<< HEAD
+=======
+
+ini barisnya dian,
+>>>>>>> ff59022ddfc249055aa143364f7d91503813a4c8
