@@ -1,2 +1,0 @@
-ini adalah contoh Teext A buatan mahar
-untuk praktik kolaborasi git
